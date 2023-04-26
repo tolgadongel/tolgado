@@ -3,7 +3,7 @@ const BLOG = {
   author: 'Tolga Döngel',
   email: 'tolgadongel@gmail.com',
   link: 'https://tolgado.vercel.app/',
-  description: 'This gonna be an awesome website.',
+  description: '',
   lang: 'en-US', // ['en-US', 'zh-CN', 'zh-HK', 'zh-TW', 'ja-JP', 'es-ES']
   timezone: 'Asia/Istanbul', // Your Notion posts' date will be interpreted as this timezone. See https://en.wikipedia.org/wiki/List_of_tz_database_time_zones for all options.
   appearance: 'dark', // ['light', 'dark', 'auto'],
